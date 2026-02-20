@@ -1,4 +1,6 @@
 package com.example.lab08;
+// test CI
+
 
 public class City {
     private String city;
